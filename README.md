@@ -85,20 +85,6 @@ You can deploy your own version in just a few clicks using:
 
 ---
 
-## 📸 Preview
-
-*(Add your screenshot here)*
-Example:
-
-```markdown
-<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/d3ab0b6e-05ea-43e7-9349-b69a02e00473" />
-<img width="435" height="466" alt="image" src="https://github.com/user-attachments/assets/05994cdd-ed4f-431b-b70b-560e5c25725d" />
-
-
-```
-
----
-
 ## 👨‍💻 Author
 
 **Manish Kumar Shukla**
